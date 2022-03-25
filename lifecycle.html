@@ -8,7 +8,11 @@
 
 </head>
 <body>
-    <div>
+    <div id="app" class="container">
+
+        <h3>{{greeting}}</h3>
+        <button @click="greeting = 'greeting changed'">Change</button>
+        <button @click="destroy()">Delete</button>
 
     </div>
 
