@@ -6,7 +6,6 @@
   <a href="https://github.com/jonasnapoles/vue-test"><img src="https://img.shields.io/npm/dm/vue.svg?sanitize=true" alt="Downloads"></a>
   <a href="https://github.com/jonasnapoles/vue-test"><img src="https://img.shields.io/npm/v/vue.svg?sanitize=true" alt="Version"></a>
   <a href="https://github.com/jonasnapoles/vue-test"><img src="https://img.shields.io/npm/l/vue.svg?sanitize=true" alt="License"></a>
-  <a href="https://github.com/jonasnapoles/vue-test"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true" alt="Chat"></a>
 </p>
 
 
