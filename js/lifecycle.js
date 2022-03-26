@@ -6,6 +6,7 @@ const app = new Vue({
   beforeCreate() {
     console.log("beforeCreate");
   },
+  //Most Used
   created() {
     //When creating the methods, observers and events, but it still doesn't access the 'DOM'.
     //Still can´t acess 'el'
@@ -15,6 +16,7 @@ const app = new Vue({
     //It's runs before inserting the 'DOM'
     console.log("beforeMount");
   },
+  //Most Used
   mounted() {
     //It's runs to the 'DOM' insert
     console.log("mounted");
